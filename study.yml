@@ -6,6 +6,7 @@ research-questions:
 - Test Q
 queries:
 - query: test
+- query: testing
 databases:
 - name: ArXiv
   enabled: true
