@@ -74,7 +74,7 @@
 }
 
 @Article{Mrkvicka2015,
-  author      = {TomÃ¡Å¡ MrkviÄka and Mari MyllymÃ¤ki and Ute Hahn},
+  author      = {Tomáš Mrkvi?ka and Mari Myllymäki and Ute Hahn},
   date        = {2015-06-04},
   title       = {Multiple Monte Carlo Testing with Applications in Spatial Point Processes},
   eprint      = {1506.01646},
@@ -453,7 +453,7 @@
 }
 
 @Article{Cuparic2018,
-  author      = {Marija CupariÄ‡ and Bojana MiloÅ¡eviÄ‡ and Marko ObradoviÄ‡},
+  author      = {Marija Cupari? and Bojana Miloševi? and Marko Obradovi?},
   date        = {2018-09-20},
   title       = {New $L^2$-type exponentiality tests},
   eprint      = {1809.07585},
@@ -1042,7 +1042,7 @@
 }
 
 @Article{Martin2020,
-  author      = {Nirian MartÃ­n},
+  author      = {Nirian Martín},
   date        = {2020-12-28},
   title       = {Rao's Score Tests on Correlation Matrices},
   eprint      = {2012.14238},
@@ -1054,7 +1054,7 @@
 }
 
 @Article{Madeja2021,
-  author      = {Matej Madeja and Jaroslav PorubÃ¤n and Michaela BaÄÃ­kovÃ¡ and MatÃºÅ¡ SulÃ­r and JÃ¡n JuhÃ¡r and Sergej Chodarev and Filip GurbÃ¡Ä¾},
+  author      = {Matej Madeja and Jaroslav Porubän and Michaela Ba?íková and Matúš Sulír and Ján Juhár and Sergej Chodarev and Filip Gurbá?},
   date        = {2021-02-23},
   title       = {Automating Test Case Identification in Open Source Projects on GitHub},
   eprint      = {2102.11678},
@@ -1105,7 +1105,7 @@
 }
 
 @Article{Neumann2019,
-  author      = {AndrÃ© Neumann and Thorsten Dickhaus},
+  author      = {André Neumann and Thorsten Dickhaus},
   date        = {2019-03-27},
   title       = {Non-parametric Archimedean generator estimation with implications for multiple testing},
   eprint      = {1903.11371},
